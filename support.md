@@ -1,2 +1,2 @@
-Contact page : /old-contact
-opens at 10:00
+Contact page : /contact
+opens at 9:00
